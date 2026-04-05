@@ -127,7 +127,7 @@
   font-weight: 700;
   color: var(--title-color);
   font-family: "IBM Plex mono", monospace;
-  text-shadow: 4px 4px 0px 0px var(--accent-color);
+  text-shadow: 4px 4px 0px var(--accent-color);
   line-height: 0.85em;
   padding-top: 63px;
   padding-left: 10px;
@@ -176,7 +176,7 @@
   font-family: "IBM Plex Mono", monospace;
   font-size: 18px;
   font-weight: 700;
-  color: var(--subtitle-color);
+  color: var(--header-text-color);
   margin-bottom: 20px;
   background-color: var(--accent-color);
 }
@@ -257,7 +257,7 @@
   font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   font-weight: 700;
   color: var(--title-color);
-  text-shadow: 4px 4px 0px 0px var(--accent-color);
+  text-shadow: 4px 4px 0px var(--accent-color);
 }
 
 @media (min-width: 768px) {
