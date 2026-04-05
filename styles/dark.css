@@ -1,6 +1,11 @@
 :root.theme-dark {
   --bg-color: #000028;
+
   --bg-image: url("../images/cover-image-dark.png");
+
+  --header-text-color: #000028;
+
+  --subtitle-color: #ff0070;
 
   --text-color: #f1b2ce;
 
