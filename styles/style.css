@@ -1,9 +1,9 @@
 .page {
-  background-image: var(--bg-image); 
-  background-position: center;       
-  background-size: cover;            
-  background-attachment: fixed;      
-  background-color: var(--bg-color); 
+  background-image: var(--bg-image);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: var(--bg-color);
   color: var(--text-color);
   min-height: 100vh;
   max-width: 1024px;
@@ -169,7 +169,7 @@
 }
 
 .section__content {
-    margin: 0 auto;
+  margin: 0 auto;
 }
 
 .section__subtitle {
