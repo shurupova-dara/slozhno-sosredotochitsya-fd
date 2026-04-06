@@ -15,6 +15,8 @@
 
   --button-color: #353430;
 
+  --button-color-hover: rgba(53, 52, 48, 0.4);
+
   --decor-color: #353430;
 
   --rec-display: none;
@@ -37,6 +39,8 @@
     --accent-color: #ff8dcb;
 
     --button-color: #353430;
+    
+    --button-color-hover: rgba(53, 52, 48, 0.4);
 
     --decor-color: #353430;
 
